@@ -1,0 +1,17 @@
+11:29:24.613 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\EI13593\OneDrive - Tietoevry\AutomationPractice\ECommerceProject\testng.xml
+
+11:29:38.868 [main] INFO  testCases.RegistarionTestCase - registratin started
+11:29:41.923 [main] INFO  testCases.RegistarionTestCase - entering the details of user
+11:30:17.837 [main] INFO  testCases.RegistarionTestCase - test case ended
+11:31:52.758 [main] INFO  testCases.RegistarionTestCase - registratin started
+11:31:55.542 [main] INFO  testCases.RegistarionTestCase - entering the details of user
+11:32:23.204 [main] INFO  testCases.RegistarionTestCase - test case ended
+11:34:58.875 [main] INFO  testCases.RegistarionTestCase - registratin started
+11:35:00.002 [main] INFO  testCases.RegistarionTestCase - entering the details of user
+11:42:14.620 [main] INFO  testCases.RegistarionTestCase - registratin started
+11:42:16.088 [main] INFO  testCases.RegistarionTestCase - entering the details of user
+11:42:25.917 [main] INFO  testCases.RegistarionTestCase - test case ended
+11:44:10.181 [main] INFO  testCases.RegistarionTestCase - registratin started
+11:44:11.005 [main] INFO  testCases.RegistarionTestCase - entering the details of user
+11:44:20.944 [main] INFO  testCases.RegistarionTestCase - test case ended
